@@ -1,0 +1,19 @@
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Project 1.exe
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Project 1.deps.json
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Project 1.runtimeconfig.json
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Project 1.runtimeconfig.dev.json
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Project 1.dll
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Project 1.pdb
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.csprojAssemblyReference.cache
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project_1.Properties.Resources.resources
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.csproj.GenerateResource.cache
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.AssemblyInfoInputs.cache
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.AssemblyInfo.cs
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.dll
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.pdb
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project 1.genruntimeconfig.cache
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project_1.DetailForm.resources
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.MainForm.resources
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Project_1.TeamsForm.resources
+C:\Users\79287\OneDrive\Рабочий стол\Project 1\-1-rabota\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.VisitorForm.resources
