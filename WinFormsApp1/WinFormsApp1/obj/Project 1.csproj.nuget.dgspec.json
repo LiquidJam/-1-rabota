@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Project 1\\-1-rabota\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj": {}
+    "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Вентиль\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Project 1\\-1-rabota\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj": {
+    "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Вентиль\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Project 1\\-1-rabota\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj",
+        "projectUniqueName": "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Вентиль\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj",
         "projectName": "Project 1",
-        "projectPath": "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Project 1\\-1-rabota\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj",
+        "projectPath": "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Вентиль\\WinFormsApp1\\WinFormsApp1\\Project 1.csproj",
         "packagesPath": "C:\\Users\\79287\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Project 1\\-1-rabota\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\79287\\OneDrive\\Рабочий стол\\Вентиль\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79287\\AppData\\Roaming\\NuGet\\NuGet.Config",
